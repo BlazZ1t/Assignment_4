@@ -1,0 +1,5 @@
+Red Grasshopper North 7
+Yellow Spider North-East 15
+Red Ant East 22
+Yellow Ant South-East 850
+Yellow Grasshopper North 0

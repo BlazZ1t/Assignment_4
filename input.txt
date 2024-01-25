@@ -1,0 +1,16 @@
+5
+5
+8
+Red Grasshopper 4 3
+Yellow Spider 2 1
+Red Ant 5 3
+Yellow Ant 3 3
+Yellow Grasshopper 4 5
+3 5 1
+15 5 4
+8 3 1
+15 1 2
+2 2 4
+7 5 5
+7 2 3
+850 4 4
